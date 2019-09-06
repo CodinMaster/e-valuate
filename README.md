@@ -1,6 +1,6 @@
 # e-valuate
 Evaluation portal for programming assessments, lab evaluations and MCQ quizzes. Supports C,C++ and Java.
-Orgiginally made for the purpose of conducting lab assessments and tutorial tests in institutes.
+Orginally made for the purpose of conducting lab assessments and tutorial tests in institutes.
 ![alt text](https://github.com/robovirmani/e-valuate/blob/master/ss/home.JPG)
 
 # REQUIREMENTS
