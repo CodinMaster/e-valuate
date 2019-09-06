@@ -22,14 +22,14 @@ if(!empty($row))
 {
 	
 
-	if($uname==$row[name] && $row[pass]==$pw)
+	if($uname==$row["name"] && $row["pass"]==$pw)
 	{
        
        
            $_SESSION=array();
 
-           $_SESSION['un']=$row[name];
-            $_SESSION['ps']=$row[pass];
+           $_SESSION['un']=$row["name"];
+            $_SESSION['ps']=$row["pass"];
 
             header("Location:home.php");
 
