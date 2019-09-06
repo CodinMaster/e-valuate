@@ -86,7 +86,7 @@ $(window).load(function() {
                 <li  class="space2"><a href="compiler.php">Compiler</a>
                 <li  class="space2"><a href="archive.php">Practice</a>
                  <li  class="space2"><a href="contest.php">All Batches</a>
-                <li  class="space2"><a href="/MCQ">Tutorial Tests</a>
+                <li  class="space2"><a href="./MCQ">Tutorial Tests</a>
                 <?php
                   if($u==1)
                   {
