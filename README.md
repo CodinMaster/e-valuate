@@ -13,7 +13,7 @@ Orginally made for the purpose of conducting lab assessments and tutorial tests 
 - Clone the repository
 - Create databases : `evaluate1` , `evaluate2` & `mcq`
 - Import `evaluate1.sql`, `evaluate2.sql` & `mcq.sql` from `db` folder into the respective databases
-- Adjust MySQL connection settings in `config.php` , `connection.php` and `MCQ-in-PHP/dbconnection.php`
+- Adjust MySQL connection settings in `config.php` , `connection.php` and `./MCQ/dbconnection.php`
 - For Admin : username - 'new' password - '1111' and For MCQ Admin : username - 'abcd@gmail.com' password - '1234567'
 - Portal is now ready !
 
